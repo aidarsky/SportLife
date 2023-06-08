@@ -1,0 +1,238 @@
+.menu{
+    background-color: rgba(14, 14, 14, 0.42);
+    border-radius: 6px;
+
+}
+.menu_2{
+    height: 90px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.menu_2 > img:hover{
+    width: 250px;
+
+}
+.adres{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    color: white;
+
+}
+.adres:hover{
+    color: pink;
+}
+.home{
+    background: white url("../foto/fitnesFon.jpg") no-repeat center;
+    background-size: cover;
+    height: 800px;
+}
+.home_2{
+    padding-top: 100px;
+}
+.home_2 > h1{
+    color: red;
+
+
+}
+form {
+    height: 60px;
+    width: 403px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    background-color: #214E41;
+    border-radius: 6px;
+    margin-top: 70px;
+}
+button {
+    width: 123px;
+    height: 64px;
+    color: white;
+    border-radius: 0 6px 6px 0;
+    background-color: #a23939;
+    border: none;
+    font-family: "Raleway";
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 20px;
+
+}
+input {
+    height: 60px;
+    width: 280px;
+    background-color: white;
+    border: solid 0.5px white;
+    padding-left: 15px;
+    border-radius: 6px 0 0 6px;
+    font-family: "Raleway";
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 20px;
+}
+.home_fon{
+
+
+}
+.center_2{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+
+.foto{
+    width: 300px;
+    height: 270px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.42);
+
+
+}
+.foto_2 > img{
+    margin-top: 35px;
+    margin-left: 90px;
+
+}
+.pr{
+    width: 300px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+
+
+
+
+
+}
+.pr:hover{
+    font-size: 21px;
+    text-align: center;
+    color: #0e0e0e;
+
+
+}
+.centerSecond{
+    background: white url("../foto/korzina.jpeg") no-repeat center;
+    background-size: cover;
+    height: 800px;
+}
+.htwo{
+    padding-top: 30px;
+}
+
+.footer{
+    height: 260px;
+    background-color: rgba(14, 14, 14, 0.42);
+    border-radius: 15px;
+}
+.h2{
+    color: white;
+    margin-top: 100px;
+    width: 800px;
+    line-height: 40px;
+    font-size: 35px;
+}
+
+.madrid{
+    background: yellow url("../foto/prais.jpg") no-repeat center;
+    background-size: cover;
+    height: 800px;
+}
+.plase{
+    /*width: 1200px;*/
+    margin: 0px auto;
+    width: 650px;
+    height: 70px;
+    background-color: black;
+    border-radius: 15px;
+}
+.plase > h2{
+    text-align: center;
+    font-size: 40px;
+    color: hotpink;
+
+}
+.prais{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    height: 700px;
+}
+.prais_2{
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    background-color: rgba(7, 6, 6, 0.98);
+
+
+}
+.prais_2 > p{
+    text-align: center;
+}
+.footer_2{
+    display: flex;
+    justify-content: space-between;
+}
+.footer_3{
+}
+
+.footer_3 > a > ul{
+
+    font-size: 20px;
+    color: white;
+    list-style: none;
+    line-height: 35px;
+
+
+
+}
+.twit > a > div > img{
+    color: white;
+}
+.footer_3 > a > ul:hover {
+    color: white;
+}
+.real{
+    font-size: 20px;
+    color: white;
+    list-style: none;
+
+}
+.real > ul{
+    list-style: none;
+    line-height: 35px;
+
+}
+.real:hover {
+    color: white;
+}
+.twit{
+    margin-top: 20px;
+
+
+}
+.bank{
+
+}
+.twit > a > div > img{
+    margin-top: 10px;
+}.twit_2 > a > div > img{
+    margin-top: 10px;
+}
+.twit > a > div > img:hover{
+    width: 80px;
+}
+
+
+.twit_2 > a > div > img:hover{
+    width: 40px;
+}
+.lebron > img:hover{
+    width: 170px;
+}

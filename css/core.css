@@ -1,0 +1,17 @@
+.container{
+    margin: 0 auto;
+    width: 1200px;
+    border-radius: 6px;
+    box-shadow: #362e2a;
+    margin-top: 60px;
+}
+body{
+    background-color: rgba(14, 14, 14, 0.7);
+    margin-bottom: 40px;
+font-family: 'Raleway';
+}
+p{
+    font-family: 'Raleway';
+    font-size: 27px;
+    color: white;
+}
